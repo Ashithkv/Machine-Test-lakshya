@@ -1,0 +1,23 @@
+[
+    {
+      "icon": "/images/icon-education.png",
+      "title": "Continued Professional Education",
+      "description": "Stay ahead with industry learning."
+    },
+    {
+      "icon": "/images/icon-network.png",
+      "title": "Networking Potential",
+      "description": "Connect with industry professionals."
+    },
+    {
+      "icon": "/images/icon-career.png",
+      "title": "Diverse Career Opportunities",
+      "description": "Access roles in public accounting, corporate finance, and audit."
+    },
+    {
+      "icon": "/images/icon-track.png",
+      "title": "Proven Track Record",
+      "description": "Trusted by thousands of successful professionals."
+    }
+  ]
+  
